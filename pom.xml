@@ -6,7 +6,7 @@
     <artifactId>spring-framework-petclinic</artifactId>
     <version>5.2.4</version>
 
-    <name>Spring Framework Petclinic</name>
+    <name>sample web application</name>
     <packaging>war</packaging>
     <description>A Spring Framework application based on JSP, Spring MVC, Spring Data JPA, Hibernate and JDBC</description>
     <url>https://github.com/spring-petclinic/</url>
